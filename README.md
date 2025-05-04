@@ -47,18 +47,19 @@ console.log(result);
 {
   "order": "1",
   "type": "regular",
-  "content": "including: frequntly, repetively, often used phrases"
+  "content": "including: frequently, repeatedly, often used phrases"
 },
 {
   "order": "2",
-  "type": "csv button",
+  "type": "csv_button",
   "content": "😀,✅,⭕,ⓒ,☒,(火),(水)"
 },
 {
   "order": "3",
-  "type": "regular",
-  "content": "frequntly used phrases"
+  "type": "multimedia",
+  "content": "yyyymmddhhss.png"
 }
+
 
 ```
 
